@@ -29,7 +29,8 @@
 - **DIY主机，Intel Core i7，32GB RAM，2T Storage，GTX1080**，x2，与女朋友的游戏主力机
 - **明基（BenQ）EW3270U 4K 显示器**，x2，偶尔配合 Mac Mini 使用，主要也是游戏显示屏
 - **斐尔可Filco 圣手二代忍者GKING2代 104键**，服役了三年，一步退烧，依旧很好用
-- **雷柏（Rapoo） MT750L**，据说是 Logitech MX Master 3 的平替，¥139 图个新鲜，
+- **雷柏（Rapoo） MT750L**，据说是 Logitech MX Master 3 的平替，¥139 图个新鲜
+- **罗技 G402**，陪伴了三年的游戏鼠标，一起拿下了三次 Dota2 周末联赛的冠军
 - **Apple Magic Trackpad 触控板 2代，白色**，放在办公室，预防鼠标手
 
 ### 📱 手机及平板
@@ -38,7 +39,7 @@
 - **红米 K50 至尊版，6.67"，骁龙8+，512GB**，备用副机，主要用于无 iOS 版本的软件测试
 - **Apple iPad Air 5，256GB**，主要用来作拓展屏或者放视频了，很少作什么生产力工具使用，外出偶尔带上盖泡面
 - 测试机大军
-	- **Apple iPhone 14 Pro，256GB**，目前最顶的，灵动岛和高刷缺失舒服
+	- **Apple iPhone 14 Pro，256GB**，目前最顶的，灵动岛和高刷确实舒服
 	- **Apple iPhone 13，256GB**，有了14后，基本不宠幸她了～
 	- **Apple iPhone 11，256GB**，越狱
 	- **Apple iPhone X，256GB**，x3
