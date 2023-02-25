@@ -137,6 +137,22 @@
 - **XMind 8 Pro**，主要思维导图工具
 - **Inoreader**，Newsletter&RSS订阅工具
 
+#### Obsidian 第三方插件
+ >  主题：`Things`
+ 
+ - Style Setting
+ - Tasks
+ - Wordpress
+ - Zoom
+ - Advanced Tables
+ - Calendar
+ - Clear Unused Images
+ - Enhancing Mindmap
+ - Image auto upload Plugin
+ - MindMap
+ - Obsidian42 - BRAT
+ - Outliner
+
 ### 👨🏻‍💻 开发工具
 
 > 主力 IDE ：`Visual Studio Code`
@@ -229,7 +245,7 @@
   - **绿联云 NAS**，管理家庭 NAS
   - **TVbox**，管理电视上的源
 - 📨 信息管理
-  - **微博**，官方客户端，主要股票内资讯获取与发布平台
+- **微博**，官方客户端，主要股票内资讯获取与发布平台
   - **豆瓣**，iOS 端，记录看过的电影和书
   - **GMail**，苹果自带邮件应用
   - **GitHub**，查看通知及获取验证
