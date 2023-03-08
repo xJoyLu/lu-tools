@@ -308,6 +308,7 @@
             <br />
             <sub><b>xJoyLu</b></sub>
         </a>
-    </td></tr>
+    </td>
+</tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
